@@ -1,7 +1,7 @@
 {
   "name": "vue-component-lab",
   "version": "1.0.0",
-  "description": "Your own vue component library",
+  "description": "Build your own vue component library",
   "main": "index.js",
   "scripts": {
     "dev": "node build/dev-server.js",
@@ -9,8 +9,7 @@
     "bundle": "gulp bundle",
     "build": "node build/build.js"
   },
-  "author": "JG",
-  "license": "ISC",
+  "author": "Jan Gunzenhauser <info@jangunzenhauser.de> (https://jangunzenhauser.de)",
   "dependencies": {
     "vue": "^2.2.6",
     "vue-router": "^2.3.1",
